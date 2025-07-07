@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    text-decoration: underline;
+}
+table{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+table,tr,td {
+    border: 2px solid black;
+    text-align: center;
+}
+.tableQuantity{
+    width: 150px;
+}
+.tableCalories{
+    width: 150px;
+}
+.tableDish{
+    width: 100px;
+}
+.tableindex{
+    width: 50px;
+}
