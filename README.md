@@ -1,6 +1,6 @@
 # 🥗 FitTrack | Fullstack Fitness Tracker (React + Express + MongoDB)
 
-FitTrack is a fullstack fitness tracker web app that allows users to sign up, log in, track daily meal calories, view past records, vote on polls, and access built-in fitness tools — all through an intuitive interface. Built using **React.js** for the frontend and **Express.js + MongoDB** for the backend.
+FitTrack is a fullstack fitness tracker web app that allows users to sign up, log in, track daily meal calories, view past records, and access built-in fitness tools — all through an intuitive interface. Built using **React.js** for the frontend and **Express.js + MongoDB** for the backend.
 
 ---
 
