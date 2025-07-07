@@ -19,7 +19,7 @@ FitTrack is a fullstack fitness tracker web app that allows users to sign up, lo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FitTrack.git
+git clone https://github.com/Vraj884/FitTrack.git
 cd FitTrack
 ```
 
